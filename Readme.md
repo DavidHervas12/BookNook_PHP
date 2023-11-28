@@ -1,5 +1,3 @@
-# BookNook
-
 Mi aplicación consiste en una página de compra-venta de libros,
 en la que un usuario podrá ser a la vez comprador y vendedor.
 
@@ -58,3 +56,7 @@ También dispones de cuatro opciones como usuario:
   3. Actualizar venta, se accede a un formulario que permite actualizar el precio
   de un libro que haya sido puesto a la venta por el mismo usuario que ha iniciado
   sesión.
+
+  4. Comprar libro, lleva a un formulario en el que el usuario tendrá que introducir
+  el isbn del libro que se desea comprar. Una vez comprado, el libro tendrá el campo de
+  "vendido" en true y este ya no podrá comprarse más.
